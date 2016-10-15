@@ -1,0 +1,13 @@
+body {
+    border: 2px solid #000000;
+}
+#style2 {
+    background-color: #08cd3b;
+}
+#style3 {
+    background-color: #de0c09;
+}
+label {
+    display: block;
+    margin: 10px;
+}
